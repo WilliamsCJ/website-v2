@@ -1,0 +1,111 @@
+baseURL = "http://cjwilliams.io/"
+languageCode = "en-gb"
+title = "CJ Williams"
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+paginate  = 10
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = true
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+    posts = "/posts/:year/:month/:title/"
+
+[author]
+    name = "CJ Williams"
+
+[taxonomies]
+    tag      = "tags"
+    category = "categories"
+    series   = "series"
+
+[params]
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04"
+
+    # Metadata mostly used in document's head
+    #
+    description = "CS Student"
+    keywords = ""
+    images = [""]
+
+    homeSubtitle = "Computer Science student at the University of St Andrews"
+
+    enableSharingButtons = false
+
+    defaultTheme = "light"
+    themeColor = "#252627"
+
+    [params.favicon.color]
+        mask = "#252627"
+        msapplication = "#252627"
+        theme = "#252627"
+
+    [params.logo]
+        logoText     = "$ cd /home/"
+        logoHomeLink = "/"
+
+    [[params.social]]
+        name = "email"
+        url  = "mailto:contact@cjwilliams.io"
+
+    [[params.social]]
+        name = "twitter"
+        url  = "https://twitter.com/CJ___Williams"
+
+    [[params.social]]
+        name = "github"
+        url  = "https://github.com/WilliamsCJ"
+
+    [[params.social]]
+        name = "linkedin"
+        url  = "https://www.linkedin.com/cjwilliams20"
+
+ [params.portrait]
+   path     = "cj.jpg"
+   alt      = "Portrait"
+   maxWidth = "250px"
+
+[languages]
+    [languages.en]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 1
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name       = "About"
+        url        = "about/"
+
+    [[menu.main]]
+        identifier = "projects"
+        name       = "Projects"
+        url        = "projects/"
+
+    [[menu.main]]
+        identifier = "posts"
+        name       = "Posts"
+        url        = "posts/"
