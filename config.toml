@@ -1,4 +1,4 @@
-baseURL = "http://cjwilliams.io/"
+baseURL = "./"
 languageCode = "en-gb"
 title = "CJ Williams"
 theme = "hello-friend-ng"

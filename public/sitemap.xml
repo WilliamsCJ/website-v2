@@ -3,19 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cjwilliams.io/categories/</loc>
+    <loc>./posts/2018/12/visualising-youth-unemployment-j.p.-morgans-code-for-good-2019/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cjwilliams.io/</loc>
+    <loc>./</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cjwilliams.io/series/</loc>
+    <loc>./posts/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cjwilliams.io/tags/</loc>
+    <loc>./about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./projects/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>./categories/</loc>
+  </url>
+  
+  <url>
+    <loc>./series/</loc>
+  </url>
+  
+  <url>
+    <loc>./tags/</loc>
   </url>
   
 </urlset>

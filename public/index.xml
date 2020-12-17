@@ -2,14 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CJ Williams</title>
-    <link>http://cjwilliams.io/</link>
+    <link>./</link>
     <description>Recent content on CJ Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cjwilliams.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualising Youth Unemployment - J.P. Morgan&#39;s Code For Good 2019</title>
+      <link>./posts/2018/12/visualising-youth-unemployment-j.p.-morgans-code-for-good-2019/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>./posts/2018/12/visualising-youth-unemployment-j.p.-morgans-code-for-good-2019/</guid>
+      <description>In November, I was fortunate enough to be invited to participated in the J.P. Morgan&amp;rsquo;s Code for Good Hackathon. The event connects teams of students with several charities, each with a specific problem they hope to solve.
+My team choose to work with the charity Movement to Work - a UK charity that aims to tackle youth unemployment. Movement to Work wanted a tool that would help them to explore the levels of youth unemployment across the UK.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>./about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>./about/</guid>
+      <description>I am an undergraduate student at the University of St Andrews studying Computer Science. I&amp;rsquo;m interested about security, distributed systems and GIS. In my free time you&amp;rsquo;ll find me out on the links, making the most of St Andrews&amp;rsquo; fantastic golf courses!
+ Career Since 2018: Freelance software developer
+Experience  06.2019 - 08.2019: Private Equity FinOps Intern @ 3i Group plc. 07.2017 - 07.2017: Software Development Intern @ Tassomai 06.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>./projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>./projects/</guid>
+      <description>Current Projects StudentLayer - Student Email Verification Coming soon!
+Technologies: Go, PostgreSQL
+ Past Projects Visualising Youth Unemployment - J.P. Morgan Code For Good 2019 In November 2019 I was fortunate enough to be invited to take part in J.P. Morgan&amp;rsquo;s Code for Good hackathon at Canary Wharf. My team and I decided to undertake a brief for Movement to Work, creating an interactive map to visualise youth unemployment in the UK at a ward level.</description>
+    </item>
     
   </channel>
 </rss>
