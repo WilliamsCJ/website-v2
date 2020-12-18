@@ -1,7 +1,7 @@
 baseURL = "https://cjwilliams.io"
 languageCode = "en-gb"
 title = "CJ Williams"
-theme = "hello-friend-ng"
+theme = "hugo-theme-hello-friend-cj"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
