@@ -34,16 +34,25 @@ Since 2018: **Freelance software developer**
 
 ### Achievements
 
-- **1st Year**, Dean's List
+- **1st Year** - First Class (Dean's List
+- **2nd Year** - First Class (Dean's List)
+
 
 ### Modules
 
 - **CS1002** - Object-Oriented Programming
 - **CS1005** - Computer Science in Everyday Life
 - **MT1002** - Mathematics
+
 - **CS1003** - Programming with Data
 - **CS1006** - Programming Projects
 - **MT1007** - Statistics in Practice
+
+
 - **CS2001** - Foundation of Computation
 - **CS2003** - The Internet and the Web: Concepts and Programming
+
+
+- **CS2002** - Computer Systems
+- **CS2006** - Advanced Programming Projects
 
