@@ -39,21 +39,29 @@ Since 2018: **Freelance software developer**
 
 
 ### Modules
+
 Year 1, Semester 1:
+
 - **CS1002** - Object-Oriented Programming
 - **CS1005** - Computer Science in Everyday Life
 - **MT1002** - Mathematics
 
+
 Year 1, Semester 2:
+
 - **CS1003** - Programming with Data
 - **CS1006** - Programming Projects
 - **MT1007** - Statistics in Practice
 
+
 Year 2, Semester 1:
+
 - **CS2001** - Foundation of Computation
 - **CS2003** - The Internet and the Web: Concepts and Programming
 
+
 Year 2, Semester 2:
+
 - **CS2002** - Computer Systems
 - **CS2006** - Advanced Programming Projects
 
