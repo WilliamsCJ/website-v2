@@ -22,7 +22,7 @@ Since 2018: **Freelance software developer**
 - 07.2017 - 07.2017: **Software Development Intern** @ [Tassomai](https://www.tassomai.com/)
 - 06.2016 - 07.2016: **Work Experience Student** @ [Microsoft](https://www.microsoft.com/en-gb/about/)
 
-[And more...](linkedin.com/in/cjwilliams20/)
+[And more...](https://linkedin.com/in/cjwilliams20/)
 
 ### Achievements
 
