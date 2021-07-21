@@ -1,15 +1,15 @@
 ---
-author: "CJ Williams"
-name: "CJ Williams"
+author: 
+    name: "CJ Williams"
 date: 2021-07-21
 linktitle: StudentLayer Episode 1 - Introduction
 type:
 - post
 - posts
-  title: StudentLayer Episode 1 - Introduction
-  weight: 10
-  series:
-  draft: false
+title: StudentLayer Episode 1 - Introduction
+weight: 10
+series:
+draft: false
 ---
 
 I recently came across a dataset that I thought was cool - it was Hipo's
