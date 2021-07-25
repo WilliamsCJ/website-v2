@@ -1,16 +1,14 @@
----
-author: 
-    name: "CJ Williams"
-date: 2021-07-21
-linktitle: StudentLayer Part 1 - Introduction
-type:
-- post
-- posts
-title: StudentLayer Part 1 - Introduction
-weight: 10
-series: 
-draft: false
----
++++
+date = 2021-07-21T11:00:00Z
+linktitle = " StudentLayer Part 1 - Introduction"
+series = ["StudentLayer"]
+title = " StudentLayer Part 1 - Introduction"
+type = ["post", "posts  "]
+weight = 1
+draft = false
+[author]
+name = "CJ Williams"
++++
 
 I recently came across a dataset that I thought was cool - it was Hipo's
 [university-domain-list](https://github.com/Hipo/university-domains-list). As a student, I wondered whether one could

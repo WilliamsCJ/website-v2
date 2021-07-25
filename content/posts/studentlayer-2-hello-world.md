@@ -1,14 +1,15 @@
 +++
 date = 2021-07-25T11:00:00Z
 linktitle = "StudentLayer Part 2 - A Hello World Service"
-series = "StudentLayer"
+series = ["StudentLayer"]
 title = "StudentLayer Part 2 - A Hello World Service"
-type = []
+type = ["post", "posts  "]
 weight = 1
+draft = false
 [author]
 name = "CJ Williams"
-
 +++
+
 # 2 - A Hello World Service
 
 In this post, we will set up our development environment and create a basic, Hello World style, service. While we will go through how we set up our project, this post won't be a step-by-step tutorial - there are many superior tutorials for all of the topics we will cover. 
