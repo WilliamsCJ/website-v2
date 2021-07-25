@@ -27,3 +27,5 @@ fields:
 - type: text
   name: series
   label: series
+pages:
+- content/posts/studentlayer-part-2-a-hello-world-service.md
