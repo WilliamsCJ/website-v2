@@ -8,7 +8,7 @@ type:
 - posts
 title: StudentLayer Part 1 - Introduction
 weight: 10
-series: StudentLayer
+series: 
 draft: false
 ---
 
