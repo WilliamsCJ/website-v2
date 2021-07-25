@@ -1,5 +1,5 @@
 ---
-label: Blog post
+label: Studentlayer
 hide_body: false
 fields:
 - type: field_group
@@ -27,5 +27,3 @@ fields:
 - type: text
   name: series
   label: series
-pages:
-- content/posts/studentlayer-part-2-a-hello-world-service.md
