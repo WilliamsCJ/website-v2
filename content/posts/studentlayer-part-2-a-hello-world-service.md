@@ -4,7 +4,7 @@ linktitle = "StudentLayer Part 2 - A Hello World Service"
 series = "StudentLayer"
 title = "StudentLayer Part 2 - A Hello World Service"
 type = []
-weight = nil
+weight = 1
 [author]
 name = "CJ Williams"
 
