@@ -1,0 +1,29 @@
+---
+label: Studentlayer
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: linktitle
+  label: linktitle
+- type: list
+  name: series
+  label: series
+- type: text
+  name: title
+  label: title
+- type: list
+  name: type
+  label: type
+- type: number
+  name: weight
+  label: weight
+- type: field_group
+  name: author
+  label: author
+  fields:
+  - type: text
+    name: name
+    label: name
