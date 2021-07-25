@@ -2,13 +2,13 @@
 author: 
     name: "CJ Williams"
 date: 2021-07-21
-linktitle: StudentLayer Episode 1 - Introduction
+linktitle: StudentLayer Part 1 - Introduction
 type:
 - post
 - posts
-title: StudentLayer Episode 1 - Introduction
+title: StudentLayer Part 1 - Introduction
 weight: 10
-series:
+series: StudentLayer
 draft: false
 ---
 
