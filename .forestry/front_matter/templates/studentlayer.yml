@@ -2,13 +2,6 @@
 label: Studentlayer
 hide_body: false
 fields:
-- type: field_group
-  name: author
-  label: author
-  fields:
-  - type: text
-    name: name
-    label: name
 - type: datetime
   name: date
   label: date
@@ -16,14 +9,23 @@ fields:
   name: linktitle
   label: linktitle
 - type: list
-  name: type
-  label: type
+  name: series
+  label: series
 - type: text
   name: title
   label: title
+- type: list
+  name: type
+  label: type
 - type: number
   name: weight
   label: weight
-- type: text
-  name: series
-  label: series
+- type: field_group
+  name: author
+  label: author
+  fields:
+  - type: text
+    name: name
+    label: name
+pages:
+- content/posts/studentlayer-part-3-deploying-our-service.md
