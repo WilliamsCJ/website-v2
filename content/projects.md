@@ -11,11 +11,11 @@ aliases = ["projects"]
 ### StudentLayer - Student Email Verification
 
 StudentLayer will be a student email verification service, created as a toy project to explore and write about 
-different topics and technologies. You can read about it [here](cjwilliams.io/posts)
+different topics and technologies. You can read about it [here](https://cjwilliams.io/posts)
 
 **Technologies**: Go
 
-**API**: [api.studentlayer.cjwilliams.io](api.studentlayer.cjwilliams.io/studentlayer)
+**API**: [api.studentlayer.cjwilliams.io](http://api.studentlayer.cjwilliams.io/studentlayer)
 
 ## Past Projects
 

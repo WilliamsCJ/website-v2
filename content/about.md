@@ -34,7 +34,7 @@ Since 2018: **Freelance software developer**
 
 ### Achievements
 
-- **1st Year** - First Class (Dean's List
+- **1st Year** - First Class (Dean's List)
 - **2nd Year** - First Class (Dean's List)
 
 
