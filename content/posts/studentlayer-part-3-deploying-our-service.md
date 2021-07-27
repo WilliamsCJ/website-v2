@@ -1,5 +1,5 @@
 +++
-date = 2021-07-28T11:00:00Z
+date = 2021-07-27T11:00:00Z
 linktitle = "StudentLayer Part 3 - Deploying our service"
 series = ["StudentLayer"]
 title = "StudentLayer Part 3 - Deploying our service"
