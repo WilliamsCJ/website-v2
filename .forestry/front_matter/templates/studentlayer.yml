@@ -27,3 +27,5 @@ fields:
   - type: text
     name: name
     label: name
+pages:
+- content/posts/studentlayer-part-3-deploying-our-service.md
