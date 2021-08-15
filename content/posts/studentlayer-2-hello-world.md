@@ -5,13 +5,10 @@ series = ["StudentLayer"]
 title = "StudentLayer Part 2 - A Hello World Service"
 type = ["post", "posts  "]
 weight = 1
-draft = false
 [author]
 name = "CJ Williams"
+
 +++
-
-# 2 - A Hello World Service
-
 In this post, we will set up our development environment and create a basic, Hello World style, service. While we will go through how we set up our project, this post won't be a step-by-step tutorial - there are many superior tutorials for all of the topics we will cover. 
 
 **Side note**: From herein, I will only reference commands for a Unix-based system (macOS specifically), though these should work for any POSIX-compliant OS.
