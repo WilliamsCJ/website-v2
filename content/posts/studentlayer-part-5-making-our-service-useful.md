@@ -7,7 +7,7 @@ title = "StudentLayer Part 5 - Making our service useful"
 type = ["post", "post"]
 weight = 10
 [author]
-name = ""
+name = "CJ Williams"
 
 +++
 In the previous post, we cleaned up our dataset and refined the data model. Now it's time to implement this model and utilise it in our service.
