@@ -5,17 +5,15 @@ series = ["StudentLayer"]
 title = " StudentLayer Part 1 - Introduction"
 type = ["post", "posts  "]
 weight = 1
-draft = false
 [author]
 name = "CJ Williams"
-+++
 
++++
 I recently came across a dataset that I thought was cool - it was Hipo's
 [university-domain-list](https://github.com/Hipo/university-domains-list). As a student, I wondered whether one could
-use this dataset to create a service that can perform student email verification, similar to a [Unidays](https://myunidays.com) or a
-[Studentbeans](https://studentbeans.com), to explore different technologies and concepts by adding new features.
+use this dataset to create a service that can perform student email verification, similar to a [Unidays](https://myunidays.com) or a [Studentbeans](https://studentbeans.com), to explore different technologies and concepts by adding new features.
 
-So that's what I'm going to do. I'm going to create my own student verification service - *StudentLayer*. StudentLayer with be a testbed through which we can explore different topics as we build our service.
+So that's what I'm going to do. I'm going to create my own student verification service - _StudentLayer_. StudentLayer with be a testbed through which we can explore different topics as we build our service.
 
 My initial language of choice will be Go. This choice is not for any particular reason other than having some experience in it, and I'd
 like to try using it for something more complex.
@@ -29,6 +27,7 @@ Our initial plan is to create a service that will take in an email and decide wh
 How do we define 'real'?
 
 For our purposes, we will define 'valid' as meeting the following criteria:
+
 1. Is the domain part a valid educational institution domain? (i.e. ox.ac.uk - the domain for the University of Oxford)
 2. Does the local part map to a real mailbox/account/user?
 
