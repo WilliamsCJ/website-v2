@@ -10,8 +10,7 @@ name = "CJ Williams"
 
 +++
 I recently came across a dataset that I thought was cool - it was Hipo's
-[university-domain-list](https://github.com/Hipo/university-domains-list). As a student, I wondered whether one could
-use this dataset to create a service that can perform student email verification, similar to a [Unidays](https://myunidays.com) or a [Studentbeans](https://studentbeans.com), to explore different technologies and concepts by adding new features.
+[university-domain-list](https://github.com/Hipo/university-domains-list). As a student, I wondered whether one could use this dataset to create a service that can perform student email verification, similar to [Unidays](https://myunidays.com) or [Studentbeans](https://studentbeans.com), to explore different technologies and concepts by adding new features.
 
 So that's what I'm going to do. I'm going to create my own student verification service - _StudentLayer_. StudentLayer with be a testbed through which we can explore different topics as we build our service.
 
