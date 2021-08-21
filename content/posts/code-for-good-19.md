@@ -29,7 +29,7 @@ between the boundaries and the unemployent data, causing holes in our choropleth
 We also struggled with computational load of rendering such a large dataset, meaning 
 sacrifices in boundary accuracy had to be sacrificed. 
 
-{{< image src="/cfg-19.png" alt="Our web app" position="center" style="border-radius: 8px;" >}}
+{{<image src="/cfg-19.png" alt="Our web app" position="center" style="border-radius: 8px;" >}}
 
 Despite these obstacles and the fact that we didn't win, there was still plenty to be proud of. 
 Many of us in the team started the event with little knowledge of things like GeoJSON or Mapbox, 
