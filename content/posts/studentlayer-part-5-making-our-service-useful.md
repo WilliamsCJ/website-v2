@@ -1,6 +1,5 @@
 +++
 date = 2021-08-14T11:00:00Z
-draft = true
 linktitle = "StudentLayer Part 5 - Making our service useful"
 series = ["StudentLayer"]
 title = "StudentLayer Part 5 - Making our service useful"
