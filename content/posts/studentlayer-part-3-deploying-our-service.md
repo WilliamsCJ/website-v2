@@ -1,8 +1,8 @@
 +++
 date = 2021-07-27T11:00:00Z
-linktitle = "StudentLayer Part 3 - Deploying our service"
+linktitle = "Deploying a Go API with Docker and a VPS (StudentLayer Part 3)"
 series = ["StudentLayer"]
-title = "StudentLayer Part 3 - Deploying our service"
+title = "Deploying a Go API with Docker and a VPS (StudentLayer Part 3)"
 type = ["posts", "post"]
 weight = 10
 [author]
