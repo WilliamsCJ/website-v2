@@ -1,8 +1,8 @@
 +++
 date = 2021-07-21T11:00:00Z
-linktitle = " StudentLayer Part 1 - Introduction"
+linktitle = "Building a student email verification service (StudentLayer Part 1)"
 series = ["StudentLayer"]
-title = " StudentLayer Part 1 - Introduction"
+title = "Building a student email verification service (StudentLayer Part 1)"
 type = ["post", "posts  "]
 weight = 1
 [author]
