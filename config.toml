@@ -83,6 +83,10 @@ disableHugoGeneratorInject = false
     [[params.social]]
         name = "linkedin"
         url  = "https://www.linkedin.com/cjwilliams20"
+        
+    [[params.social]]
+        name = "medium"
+        url  = "https://cj-williams.medium.com"
 
  [params.portrait]
    path     = "cj.jpg"
