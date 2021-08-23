@@ -1,8 +1,8 @@
 +++
 date = 2021-08-11T11:00:00Z
-linktitle = "StudentLayer Part 4 - Cleaning our data"
+linktitle = "Cleaning a JSON dataset with Python, Jupyter Notebook and Pandas (StudentLayer Part 4)"
 series = ["StudentLayer"]
-title = "StudentLayer Part 4 - Cleaning our data"
+title = "Cleaning a JSON dataset with Python, Jupyter Notebook and Pandas (StudentLayer Part 4)"
 type = ["posts", "post"]
 weight = 10
 [author]
