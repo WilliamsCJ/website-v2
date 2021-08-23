@@ -1,8 +1,8 @@
 +++
 date = 2021-08-14T11:00:00Z
-linktitle = "StudentLayer Part 5 - Making our service useful"
+linktitle = "StudentLayer Part 5 - Creating data models in Go"
 series = ["StudentLayer"]
-title = "StudentLayer Part 5 - Making our service useful"
+title = "Creating data models in Go (StudentLayer Part 5)"
 type = ["post", "post"]
 weight = 10
 [author]
