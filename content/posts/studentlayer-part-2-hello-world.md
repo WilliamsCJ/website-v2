@@ -1,8 +1,8 @@
 +++
 date = 2021-07-25T11:00:00Z
-linktitle = "StudentLayer Part 2 - A Hello World Service"
+linktitle = "Building a Hello World API in Go (StudentLayer Part 2)"
 series = ["StudentLayer"]
-title = "StudentLayer Part 2 - A Hello World Service"
+title = "Building a Hello World API in Go (StudentLayer Part 2)"
 type = ["post", "posts  "]
 weight = 1
 [author]
